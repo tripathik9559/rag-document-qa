@@ -12,6 +12,8 @@
 
 ---
 
+> **🚧 Status: Work in Progress** — this project is currently under active development and testing.
+
 **A GenAI-powered document intelligence system** — upload any PDF and ask questions in natural
 language. Built on a full Retrieval-Augmented Generation (RAG) pipeline using Gemini + ChromaDB,
 capable of grounding every answer in the source document with page-level citations.
